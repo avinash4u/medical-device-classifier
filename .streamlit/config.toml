@@ -1,0 +1,22 @@
+# .streamlit/config.toml for Streamlit Cloud deployment
+
+[server]
+port = 8501
+headless = true
+enableCORS = false
+enableXsrfProtection = true
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+primaryColor = "#FF6B6B"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F0F2F6"
+textColor = "#262730"
+
+[logger]
+level = "info"
+
+[client]
+toolbarMode = "minimal"
