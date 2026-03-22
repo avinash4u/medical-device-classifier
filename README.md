@@ -86,6 +86,11 @@ brew install tesseract
 
 ## Usage
 
+### 🌍 **Public Web Application**
+**Live URL**: https://medical-device-classifier.streamlit.app
+
+Access the medical device classifier directly from your browser without any local setup!
+
 ### Running the Application
 
 ```bash
